@@ -20,8 +20,6 @@
 
 [![Ozodbek's github stats](https://github-readme-stats.vercel.app/api?username=kamoloff&count_private=true&include_all_commits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ozodbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamoloff)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamoloff&color=brightgreen" alt="Ozodbek Kamolov"/> </p>
 
 - 🔭 I’m currently working on communication skills
