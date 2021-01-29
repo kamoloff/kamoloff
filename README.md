@@ -61,5 +61,8 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" style="max-width:100%;">][codeforces]
 
 <br/>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="ru_RU" data-type="horizontal" data-theme="dark" data-vanity="kamoloff"><a class="LI-simple-link" href='https://uz.linkedin.com/in/kamoloff?trk=profile-badge'>Ozodbek Kamolov</a></div>
 
 ### Happy Coding
