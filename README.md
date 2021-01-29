@@ -37,7 +37,7 @@
 ### Me on social networks:
 
 [twitter]: https://twitter.com/KamolovOzodbek
-[linkedin]: https://www.linkedin.com/in/ozodbekkamolov
+[linkedin]: https://www.linkedin.com/in/kamoloff
 [instagram]: https://www.instagram.com/0zzy7
 [facebook]: https://www.facebook.com/Ozodbek007
 [telegram]: https://t.me/kamoloff
