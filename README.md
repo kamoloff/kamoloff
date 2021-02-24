@@ -52,7 +52,7 @@
 
 ### I love designing algorithms:
 
-[leetcode]: https://www.leetcode.com/ozzy7
+[leetcode]: https://www.leetcode.com/kamoloff
 [hackerrank]: https://www.hackerrank.com/ozodbekkamolov
 [codeforces]: https://codeforces.com/profile/Ozodbek_001
 
